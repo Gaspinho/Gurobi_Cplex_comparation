@@ -1,7 +1,0 @@
-Instancia,Modelo,Solver,Resultado,Tiempo
-S:\Universidad\Optimizacion\Gurobi_Cplex_comparation\instances\Instances_Barreto_LRP\coordChrist100.dat,SCF,Gurobi,649.3313751586169,16.427993297576904
-S:\Universidad\Optimizacion\Gurobi_Cplex_comparation\instances\Instances_Barreto_LRP\coordChrist50.dat,SCF,Gurobi,399.4863093550114,3.391099452972412
-S:\Universidad\Optimizacion\Gurobi_Cplex_comparation\instances\Instances_Barreto_LRP\coordChrist75.dat,SCF,Gurobi,534.4118895989344,6.962888240814209
-S:\Universidad\Optimizacion\Gurobi_Cplex_comparation\instances\Instances_Barreto_LRP\coordChrist100.dat,NODE-DL,Gurobi,642.4530126693361,4.18844747543335
-S:\Universidad\Optimizacion\Gurobi_Cplex_comparation\instances\Instances_Barreto_LRP\coordChrist50.dat,NODE-DL,Gurobi,380.8165487234343,0.9901366233825684
-S:\Universidad\Optimizacion\Gurobi_Cplex_comparation\instances\Instances_Barreto_LRP\coordChrist75.dat,NODE-DL,Gurobi,531.0523301260047,1.6562297344207764
